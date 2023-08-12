@@ -2,11 +2,20 @@ import React, { useState, useEffect } from "react";
 import "./App.css";
 
 const quotes = [
-  "The only way to do great work is to love what you do. - Steve Jobs",
-  "Believe you can and you're halfway there. - Theodore Roosevelt",
-  "Don't watch the clock; do what it does. Keep going. - Sam Levenson",
-  "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill"
-  // Add more quotes here
+ "The best error message is the one that never shows up. - Thomas Fuchs",
+  "Code is like humor. When you have to explain it, it's bad. - Cory House",
+  "It's not at all important to get it right the first time. It's vitally important to get it right the last time. - Andrew Hunt and David Thomas",
+  "Programming isn't about what you know; it's about what you can figure out. - Chris Pine",
+  "Don't worry if it doesn't work right. If everything did, you'd be out of a job. - Mosher's Law of Software Engineering",
+  "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. - Patrick McKenzie",
+  "The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie",
+  "Simplicity is the soul of efficiency. - Austin Freeman",
+  "Software is a great combination between artistry and engineering. - Bill Gates",
+  "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. - Antoine de Saint-Exupéry",
+  "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will. - Vince Lombardi",
+  "Do not worry about your difficulties in programming; they are the best part of your education. - E. W. Dijkstra",
+  "The best way to predict your future is to create it. - Abraham Lincoln",
+ 
 ];
 const about =
   "I'm Espi sharoon raj,\n A highly motivated fresher seeking for a challenging role in the field of computer science, with a particular interest in full stack development. Willing to expand into AI and WEB 3.0 in the future. My passion for technology and love for learning drives me with continuous improvement and adapt to new technologies through consistent efforts";
