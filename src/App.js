@@ -85,7 +85,7 @@ function App() {
             demonstrates programming logic and decision-making.{" "}
           </p>
           <p>
-            <h5>5. Cipher encryptionr</h5>
+            <h5>5. Cipher encryption</h5>
             This project involves the initial implementation of an encryption
             cipher. Encryption ciphers are algorithms used to transform plain
             text into a coded version, enhancing data security. This project
